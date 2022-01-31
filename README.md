@@ -1,1 +1,1 @@
-# git-kurs-2
+# git-kurs-2 edycja
